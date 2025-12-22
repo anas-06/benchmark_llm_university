@@ -8,7 +8,7 @@ Ce dépôt contient une évaluation comparative de **GPT-4o**, **Mistral Large**
 * **Audit Éthique** : Détecter les biais et la toxicité via **Toxic-BERT**.
 
 ## Installation
-1. Clonez le dépôt : `git clone https://github.com/votre-nom/votre-projet.git`
+1. Clonez le dépôt : `git clone https://github.com/votre-utilisateur/benchmark_llm_university.git`
 2. Installez les dépendances : `pip install -r requirements.txt`
 3. Créez un fichier `.env` avec vos clés : `OPENAI_API_KEY`, `MISTRAL_API_KEY`, `GROQ_API_KEY`.
 
