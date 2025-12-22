@@ -1,0 +1,11 @@
+datasets
+pandas
+matplotlib
+seaborn
+codecarbon
+transformers
+torch
+openai
+mistralai
+groq
+python-dotenv
